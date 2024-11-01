@@ -1,4 +1,4 @@
-# Migairu Europa Core
+# Europa Core ヽ(・ω・)ﾉ
 An open-source, end-to-end encrypted file transfer system built with ASP.NET Core.
 
 ## Features
