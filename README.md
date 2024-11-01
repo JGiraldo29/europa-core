@@ -7,7 +7,6 @@ An open-source, end-to-end encrypted file transfer system built with ASP.NET Cor
 - Rate limiting
 - File expiration system
 - Configurable storage providers
-- MIT License
 
 ## Prerequisites___〆(´ω｀)
 - .NET 8.0 SDK
@@ -32,9 +31,6 @@ Basic configuration example(appsettings.json):
     }
   },
   "AllowedHosts": "*",
-  "ConnectionStrings": {
-    "DefaultConnection": "my-database-connection;"
-  },
   "StorageConfig": {
     "ConnectionString": "my-storage-connection"
   }
