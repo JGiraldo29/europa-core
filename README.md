@@ -16,8 +16,10 @@ An open-source, end-to-end encrypted file transfer system built with ASP.NET Cor
 
 ## Quick Start
 1. Clone the repository
-2. Configure your appsettings.json
-3. Run the application
+2. Create your Program.cs
+3. Configure your appsettings.json
+4. Add your views.
+5. Run the application
 
 ## Configuration
 Basic configuration example:
