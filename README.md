@@ -1,5 +1,5 @@
-# EuropaTransfer.Core
-End-to-end encrypted file transfer.
+# Europa Core
+Migairu Europa End-to-end encrypted file transfer core components and patterns at your service.
 
 ## Features ヽ(・ω・)ﾉ
 - Client-side encryption via Web Crypto API (AES-GCM)
@@ -9,12 +9,5 @@ End-to-end encrypted file transfer.
 - Configurable storage backends
 - File expiration system
 
-## Prerequisites___〆(´ω｀)
-- .NET 8.0 SDK
-- Visual Studio 2022/VS Code/Rider
-- Azure Storage Account (or other storage provider)
-
 ## Available as___〆(´ω｀;)
-- Open Source Library - Build your own solution
-- Hosted Solution - Migairu Europa
-- Enterprise Support
+- [Europa](https://europa.migairu.com/)
