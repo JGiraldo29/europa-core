@@ -22,7 +22,7 @@ An open-source, end-to-end encrypted file transfer system built with ASP.NET Cor
 5. Run the application
 
 ## Configuration___〆(´ω｀;)
-Basic configuration example:
+Basic configuration example(appsettings.json):
 ```json
 {
   "Logging": {
