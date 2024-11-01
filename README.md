@@ -7,7 +7,6 @@ Migairu Europa End-to-end encrypted file transfer core components and patterns a
 - Chunked file upload for large files
 - Rate limiting protection
 - Configurable storage backends
-- File expiration system
 
 ## Available as___〆(´ω｀;)
 - [Europa](https://europa.migairu.com/)
