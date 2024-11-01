@@ -1,5 +1,5 @@
 # Europa Core
-Migairu Europa End-to-end encrypted file transfer core components and patterns at your service.
+Migairu Europa's end-to-end encrypted file transfer core components and patterns at your service.
 
 ## Features ヽ(・ω・)ﾉ
 - Client-side encryption via Web Crypto API (AES-GCM)
