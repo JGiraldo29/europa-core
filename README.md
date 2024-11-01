@@ -9,19 +9,19 @@ An open-source, end-to-end encrypted file transfer system built with ASP.NET Cor
 - Configurable storage providers
 - MIT License
 
-## Prerequisites __〆(´ω｀)
+## Prerequisites___〆(´ω｀)
 - .NET 8.0 SDK
 - Visual Studio 2022/VS Code/Rider
 - Azure Storage Account (or other storage provider)
 
-## Quick Start C= C= C= C= C=┌(;・ω・)┘
+## Quick Start= t= t= t= t=┌(;・ω・)┘
 1. Clone the repository
 2. Create your Program.cs
 3. Configure your appsettings.json
 4. Add your views.
 5. Run the application
 
-## Configuration __〆(´ω｀;)
+## Configuration___〆(´ω｀;)
 Basic configuration example:
 ```json
 {
