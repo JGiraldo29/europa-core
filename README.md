@@ -1,7 +1,7 @@
-# Europa Core ヽ(・ω・)ﾉ
+# Europa Core
 An open-source, end-to-end encrypted file transfer system built with ASP.NET Core.
 
-## Features
+## Features ヽ(・ω・)ﾉ
 - End-to-end encryption using Web Crypto API
 - Chunked file uploads for large files
 - Rate limiting
@@ -9,28 +9,33 @@ An open-source, end-to-end encrypted file transfer system built with ASP.NET Cor
 - Configurable storage providers
 - MIT License
 
-## Prerequisites
+## Prerequisites __〆(´ω｀)
 - .NET 8.0 SDK
 - Visual Studio 2022/VS Code/Rider
 - Azure Storage Account (or other storage provider)
 
-## Quick Start
+## Quick Start C= C= C= C= C=┌(;・ω・)┘
 1. Clone the repository
 2. Create your Program.cs
 3. Configure your appsettings.json
 4. Add your views.
 5. Run the application
 
-## Configuration
+## Configuration __〆(´ω｀;)
 Basic configuration example:
 ```json
 {
-  "Storage": {
-    "Provider": "AzureBlob",
-    "ConnectionString": "your_connection_string"
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
   },
-  "RateLimiting": {
-    "UploadLimit": "100mb",
-    "TimeWindow": "1m"
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "my-database-connection;"
+  },
+  "StorageConfig": {
+    "ConnectionString": "my-storage-connection"
   }
 }
