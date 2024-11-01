@@ -1,4 +1,4 @@
-# Secure File Transfer System
+# Migairu Europa Core
 An open-source, end-to-end encrypted file transfer system built with ASP.NET Core.
 
 ## Features
