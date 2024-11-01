@@ -1,5 +1,5 @@
 # EuropaTransfer.Core
-An open-source, end-to-end encrypted file transfer.
+End-to-end encrypted file transfer.
 
 ## Features ヽ(・ω・)ﾉ
 - Client-side encryption via Web Crypto API (AES-GCM)
