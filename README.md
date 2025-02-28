@@ -9,4 +9,4 @@ Migairu Europa's end-to-end encrypted file transfer core components and patterns
 - Configurable storage backends
 
 ## Available as___〆(´ω｀;)
-- [Europa](https://europa.migairu.com/)
+- [Europa](https://github.com/JGiraldo29/europa)
